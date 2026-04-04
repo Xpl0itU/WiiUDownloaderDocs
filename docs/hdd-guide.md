@@ -5,9 +5,9 @@ Do not use **ANY** Flashdrive/Flashkey/USB Thumbdrive as storage for **Wii U** g
 :::
 
 There are 3 reliable storage solutions for the Wii U:
-1.  **Portable HDD** (Easiest)
-2.  **SATA HDD** (Most Reliable)
-3.  **SDUSB** (Cheapest)
+1.  [**Portable HDD**](./#portable-hdd) (Easiest)
+2.  [**SATA HDD**](./#sata-hdd) (Most Reliable)
+3.  [**SDUSB**](./#sdusb-guide) (Cheapest)
 
 ---
 

@@ -8,6 +8,16 @@
 
 1. Only have the Cemu box checked during setup.
     ![CemuDownload](</screenshots/Cemu1.png>)
+    :::info
+    If you forgot what you picked for the platform box, here are the settings you need to edit for **Decrypt Contents** and **Delete encrypted contents after decryption.**
+    - **Cemu Only**: Check **Decrypt Contents** ***and*** **Delete encrypted contents after decryption.**
+    
+    ![WiiU](</screenshots/DownloaderCemu.jpg>)
+
+    - **WiiU and Cemu**: **Only** check the **Decrypt Contents** box. Do **NOT** check **Delete encrypted contents after decryption.**
+
+    ![WiiU](</screenshots/DownloaderWiiUCemu.jpg>)
+    :::
 2. Search for the game(s) you want.
     ![CemuDownload](</screenshots/Cemu2.png>)
 3. Check the checkmark box on the game(s) you want to add to the download queue

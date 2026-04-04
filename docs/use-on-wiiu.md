@@ -8,12 +8,22 @@
 
 :::danger Important
 - Do **NOT** forget to download the update for the game if it's available, or it will not work (e.g., Breath of the Wild). DLC is optional.
-- Do **NOT** click "Decrypt Contents" or "Delete encrypted contents after decryption" as this will make the files **UNUSABLE** by the Wii U.
+- Do **NOT** click "Decrypt Contents" and "Delete encrypted contents after decryption" as this will make the files **UNUSABLE** by the Wii U.
 - Make sure you download and install NUSSPLI from [here](./nusspli.md) before moving forward.
 :::
 
 1. Only have the WiiU box checked during setup.
     ![WiiU](</screenshots/WiiU1.png>)
+    :::info
+    If you forgot what you picked for the platform box, here are the settings you need to edit for **Decrypt Contents** and **Delete encrypted contents after decryption.**
+    - **WiiU Only**: Do not check any boxes.
+    
+    ![WiiU](</screenshots/DownloaderWiiU.jpg>)
+
+    - **WiiU and Cemu**: **Only** check the **Decrypt Contents** box. Do **NOT** check **Delete encrypted contents after decryption.**
+
+    ![WiiU](</screenshots/DownloaderWiiUCemu.jpg>)
+    :::
 2. Search for the game(s) you want.
     ![WiiU](</screenshots/WiiU2.png>)
 3. Check the checkmark box on the game(s) you want to add to the download queue
@@ -24,11 +34,13 @@
     ![WiiU](</screenshots/WiiU5.png>)
     - The game will start downloading after this step.
     ![WiiU](</screenshots/WiiU6.png>)
-6. You should now have the **encypted** game files which include **.app** and **.H3** files.
+6. You should now have the **encrypted** game folder which will include **.app**, **.h3**, **title.cert**, **title.tik**, and **tile.tmd** files inside the folder.
     ![WiiU](</screenshots/WiiU7.png>)
 
 ### Installing games to real hardware (Wii U)
-1.  Insert your SD card and create a folder named `install` on the root.
+1.  Insert your SD card and create a folder named `install` on the root. 
+    - Right click on empty space on the root of the SD card, hover over "New", then click "Folder"  
+    - Next, right click the new folder, select "Rename" then change the name to "install"
 2.  Move the downloaded game folder(s) to the `install` folder.
     ![Moving game files to SD card](</gifs/Moving Games.gif>)
 3.  Eject your SD card and put it into the Wii U.
