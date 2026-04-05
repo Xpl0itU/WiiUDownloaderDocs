@@ -1,4 +1,4 @@
-# WiiUDownload for WiiU
+# WiiUDownloader for WiiU
 
 ### Downloading the game
 

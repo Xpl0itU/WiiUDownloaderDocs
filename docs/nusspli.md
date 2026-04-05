@@ -16,8 +16,7 @@
 3.  Drag the `NUSspli` folder or `NUSspli.wuhb` to the `wiiu/apps/` directory on your SD card.
      ![NUSspli Setup](</screenshots/NUSspliDrag.png>)
 
-![NUSspli Setup](</gifs/NUSspli Setup.gif>)
-
+Click [here](./use-on-wiiu.md) to return to the WiiU Guide.
 :::info NUSspli vs. Lite
 NUSspli Lite is just NUSspli without the ability to download apps directly on the Wii U.
 NUSspli Lite has been discontinued in later versions. 
